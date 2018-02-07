@@ -1,0 +1,24 @@
+{
+  "name": "react-native-battery-save-mode",
+  "version": "0.1.0",
+  "description": "React Native module for checking battery save mode status on android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kholiavko-roman/react-native-battery-save-mode.git"
+  },
+  "keywords": [
+    "react-native",
+    "battery",
+    "battery-save-mode"
+  ],
+  "author": "Kholiavko Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kholiavko-roman/react-native-battery-save-mode/issues"
+  },
+  "homepage": "https://github.com/kholiavko-roman/react-native-battery-save-mode#readme"
+}
